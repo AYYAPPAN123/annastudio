@@ -1,0 +1,29 @@
+.banner1{
+    background-image: url(./Banner\ template\ design\ abstract\ black\ and\ white\ geometric\ squares\ overlapping\ layer\ on\ clean\ background.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 225px 0;
+  }
+  .image{
+    width:50%;
+    height:250px;
+  }
+  .section2{
+    height:max-content;
+    padding:100px 0 ;
+  }
+  .section1{
+    height:max-content;
+  }
+  .icon{
+    padding-left: 45%;
+  }
+  .contect{
+    padding-left: 45%;
+
+  }
+  body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+  }
+  
